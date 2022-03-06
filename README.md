@@ -1,16 +1,25 @@
-### Hi there 👋
+### Hi, I'm Fadhlynz 👋
 
-<!--
-**Fadhlynz/fadhlynz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Developer, College Student, and Programmer!
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🔭 I’m currently working on Fadhlynz Project!
+- 🌱 I’m currently learning React.js, Laravel, Inertia.js, Testing algorithm
+- 👯 I’m looking to collaborate on Creating Content
+- 🤔 I’m looking for help with design
+- 💬 Ask me about Javascript, Full Stack Development
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I am human
+
+🐦 [twitter][twitter] **|** 
+📺 [youtube][youtube] **|** 
+📷 [instagram][instagram] **|** 
+👔 [linkedin][linkedin]
+
+[twitter]: https://twitter.com/FadhlyNurzaman
+[youtube]: https://youtube.com/UCEp14FMmbnraHKcOFiEWOOg
+[instagram]: https://instagram.com/fadhlynz
+[linkedin]: https://linkedin.com/in/fadhlynz
+
