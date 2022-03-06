@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 [twitter]: https://twitter.com/FadhlyNurzaman
 [youtube]: https://youtube.com/UCEp14FMmbnraHKcOFiEWOOg
 [instagram]: https://instagram.com/fadhlynz
-[linkedin]: https://linkedin.com/in/fadhlynz
+[linkedin]: https://www.linkedin.com/in/fadhlynz
 
