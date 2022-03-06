@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Creating Content
 - 🤔 I’m looking for help with design
 - 💬 Ask me about Javascript, Full Stack Development
-- 📫 How to reach me: ...
+- 📫 How to reach me: Direct message on my instagram
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am human
 
