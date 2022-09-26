@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Fadhlynz Project!
-- 🌱 I’m currently learning React.js, Laravel, Inertia.js, Testing algorithm
+- 🌱 I’m currently learning React.js, Laravel, Inertia.js, Webpack, and Testing algorithm,
 - 👯 I’m looking to collaborate on Creating Content
 - 🤔 I’m looking for help with design
 - 💬 Ask me about Javascript, Full Stack Development
